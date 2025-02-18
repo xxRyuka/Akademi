@@ -19,7 +19,7 @@ namespace Akademi
 				case 5: Console.WriteLine("cuma"); break;
 				case 6: Console.WriteLine("cumartesi"); break;
 				case 7: Console.WriteLine("pazar"); break;
-				default: Console.WriteLine("eçersiz giriş!"); break;
+				default: Console.WriteLine("eçersiz giriş"); break;
 			}
 		}
 	}
