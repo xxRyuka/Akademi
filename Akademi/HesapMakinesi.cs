@@ -19,9 +19,9 @@ namespace Akademi
 					if (sayi2 != 0)
 						Console.WriteLine("Sonuç: " + (sayi1 / sayi2));
 					else
-						Console.WriteLine("Hata: Bir sayı sıfıra bölünemez!");
+						Console.WriteLine("Hata: Bir sayı sıfıra bölünemez");
 					break;
-				default: Console.WriteLine("Geçersiz işlem!"); break;
+				default: Console.WriteLine("Geçersiz işlem"); break;
 			}
 		}
 	}
