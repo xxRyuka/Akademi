@@ -1,0 +1,7 @@
+C:\Users\Ryuka\source\repos\Akademi\Akademi\bin\Debug\Akademi.exe.config
+C:\Users\Ryuka\source\repos\Akademi\Akademi\bin\Debug\Akademi.exe
+C:\Users\Ryuka\source\repos\Akademi\Akademi\bin\Debug\Akademi.pdb
+C:\Users\Ryuka\source\repos\Akademi\Akademi\obj\Debug\Akademi.csproj.AssemblyReference.cache
+C:\Users\Ryuka\source\repos\Akademi\Akademi\obj\Debug\Akademi.csproj.CoreCompileInputs.cache
+C:\Users\Ryuka\source\repos\Akademi\Akademi\obj\Debug\Akademi.exe
+C:\Users\Ryuka\source\repos\Akademi\Akademi\obj\Debug\Akademi.pdb
